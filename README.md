@@ -23,10 +23,3 @@ This project is a web application that analyzes audio to detect emotions in spee
 - Python 3.12
 - pip (Python package manager)
 
-### Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/speech-emotion-recognition.git
-cd speech-emotion-recognition
-```
